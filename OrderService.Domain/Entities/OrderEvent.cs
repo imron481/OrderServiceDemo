@@ -1,3 +1,5 @@
+using System;
+
 namespace OrderService.Domain.Entities;
 
 public class OrderEvent

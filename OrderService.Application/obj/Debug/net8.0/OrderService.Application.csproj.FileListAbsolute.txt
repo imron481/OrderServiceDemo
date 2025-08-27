@@ -1,0 +1,16 @@
+/home/runner/work/OrderServiceDemo/OrderServiceDemo/OrderService.Application/obj/Debug/net8.0/OrderService.Application.csproj.AssemblyReference.cache
+/home/runner/work/OrderServiceDemo/OrderServiceDemo/OrderService.Application/obj/Debug/net8.0/OrderService.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/OrderServiceDemo/OrderServiceDemo/OrderService.Application/obj/Debug/net8.0/OrderService.Application.AssemblyInfoInputs.cache
+/home/runner/work/OrderServiceDemo/OrderServiceDemo/OrderService.Application/obj/Debug/net8.0/OrderService.Application.AssemblyInfo.cs
+/home/runner/work/OrderServiceDemo/OrderServiceDemo/OrderService.Application/obj/Debug/net8.0/OrderService.Application.csproj.CoreCompileInputs.cache
+/home/runner/work/OrderServiceDemo/OrderServiceDemo/OrderService.Application/obj/Debug/net8.0/OrderService.Application.sourcelink.json
+/home/runner/work/OrderServiceDemo/OrderServiceDemo/OrderService.Application/bin/Debug/net8.0/OrderService.Application.deps.json
+/home/runner/work/OrderServiceDemo/OrderServiceDemo/OrderService.Application/bin/Debug/net8.0/OrderService.Application.dll
+/home/runner/work/OrderServiceDemo/OrderServiceDemo/OrderService.Application/bin/Debug/net8.0/OrderService.Application.pdb
+/home/runner/work/OrderServiceDemo/OrderServiceDemo/OrderService.Application/bin/Debug/net8.0/OrderService.Domain.dll
+/home/runner/work/OrderServiceDemo/OrderServiceDemo/OrderService.Application/bin/Debug/net8.0/OrderService.Domain.pdb
+/home/runner/work/OrderServiceDemo/OrderServiceDemo/OrderService.Application/obj/Debug/net8.0/OrderService.Application.csproj.CopyComplete
+/home/runner/work/OrderServiceDemo/OrderServiceDemo/OrderService.Application/obj/Debug/net8.0/OrderService.Application.dll
+/home/runner/work/OrderServiceDemo/OrderServiceDemo/OrderService.Application/obj/Debug/net8.0/refint/OrderService.Application.dll
+/home/runner/work/OrderServiceDemo/OrderServiceDemo/OrderService.Application/obj/Debug/net8.0/OrderService.Application.pdb
+/home/runner/work/OrderServiceDemo/OrderServiceDemo/OrderService.Application/obj/Debug/net8.0/ref/OrderService.Application.dll

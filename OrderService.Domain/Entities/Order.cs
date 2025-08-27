@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+
 namespace OrderService.Domain.Entities;
 
 public class Order

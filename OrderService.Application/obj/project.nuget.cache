@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EVacef7FRW1cyWqYAsZVwrnubLhn+b22TJA37tYdO16BVtIe/of5c1aMNKyNNFvLkfMJFVxu3muwmbPwG4cUVA==",
+  "success": true,
+  "projectFilePath": "/home/runner/work/OrderServiceDemo/OrderServiceDemo/OrderService.Application/OrderService.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,7 +1,9 @@
+using System;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using OrderService.Application.Services;
-using OrderService.Domain.Entities;
 using OrderService.Infrastructure.Services;
+using OrderService.Domain.Entities;
+using AppOrderService = OrderService.Application.Services.OrderService;
 
 namespace OrderService.API.Controllers;
 
@@ -9,10 +11,10 @@ namespace OrderService.API.Controllers;
 [Route("api/[controller]")]
 public class OrdersController : ControllerBase
 {
-    private readonly OrderService _orderService;
+    private readonly AppOrderService _orderService;
     private readonly ITenantProvider _tenantProvider;
 
-    public OrdersController(OrderService orderService, ITenantProvider tenantProvider)
+    public OrdersController(AppOrderService orderService, ITenantProvider tenantProvider)
     {
         _orderService = orderService;
         _tenantProvider = tenantProvider;

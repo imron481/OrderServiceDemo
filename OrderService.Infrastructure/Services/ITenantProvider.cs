@@ -1,3 +1,5 @@
+using System;
+
 namespace OrderService.Infrastructure.Services;
 
 public interface ITenantProvider
